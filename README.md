@@ -25,3 +25,8 @@ I wanted hands-on practice with Excel, from working with formulas to building su
 ## Data Note
 
 The sales data is sample data and is not identified as belonging to a specific company. Unit costs are sample estimates, so profit figures are for practice and illustration.
+
+## Dashboard Preview
+
+![Sales dashboard preview](DASHBOARD
+.png)
