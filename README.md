@@ -28,5 +28,4 @@ The sales data is sample data and is not identified as belonging to a specific c
 
 ## Dashboard Preview
 
-![Sales dashboard preview](DASHBOARD
-.png)
+![Sales dashboard preview](https://github.com/shayan8250/EXCEL_SALES_AND_PERFORMANCE_DASHBOAD_PROJECT/blob/bb59455152006c4b0b499bfd6757e515ce85066c/DASHBOARD.png)
